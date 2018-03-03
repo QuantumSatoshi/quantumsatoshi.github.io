@@ -1,15 +1,14 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: Quantum-Satoshi foundation
+description: The next step for humanity starts with the convergence of Quantum, AI and Blockchain technologies.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
-favicon: assets/images/favicon.png
+favicon: 
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://samanyougarg.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
 twitter: twitter
 github:  github
 
